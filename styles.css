@@ -385,6 +385,7 @@ label::before {
   width: 100%;
   max-width: 1000px;
   margin: 0 auto;
+  z-index:69;
 }
 
 .header__para {
@@ -423,6 +424,7 @@ label::before {
   bottom: 90px;
   left: 50%;
   transform: translateX(-50%);
+  z-index:69;
 }
 
 .scroll__icon {
