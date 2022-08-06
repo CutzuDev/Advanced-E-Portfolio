@@ -675,6 +675,7 @@ nav {
   text-align: center;
   font-size: 48px;
   margin-bottom: 60px;
+  position: relative;
   z-index: 2;
 }
 
